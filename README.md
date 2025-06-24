@@ -1,8 +1,6 @@
 # Hi there, I'm Habib Furqony Andrianus! 👋
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Economist+%26+Data+Scientist;NUS+Master's+Student;Research+%26+Analytics+Expert;Teaching+Assistant;Former+PMI+%26+Nutrifood+Analyst" alt="Typing SVG" />
-</div>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Economist+%26+Data+Scientist;NUS+Master's+Student;Research+%26+Analytics+Expert;Teaching+Assistant;Former+PMI+%26+Nutrifood+Analyst)
 
 ## 🚀 About Me
 
@@ -19,50 +17,33 @@ I'm a distinguished economist and data scientist currently pursuing my Master of
 
 ## 🛠️ Technical Skills & Tools
 
-### Programming & Analytics
+**Programming & Analytics:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Stata](https://img.shields.io/badge/Stata-1F4E79?style=for-the-badge&logo=stata&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-### Data Science & Machine Learning
+**Data Science & Machine Learning:**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Specializations
-![Economics](https://img.shields.io/badge/Economics-FF6B35?style=for-the-badge&logo=chart-line&logoColor=white)
-![Econometrics](https://img.shields.io/badge/Econometrics-4CAF50?style=for-the-badge&logo=analytics&logoColor=white)
-![Research](https://img.shields.io/badge/Research-9C27B0?style=for-the-badge&logo=microscope&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF9800?style=for-the-badge&logo=chart-bar&logoColor=white)
-
-### Business Intelligence
+**Business Intelligence:**
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=habibandrianus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=habibandrianus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habibandrianus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=habibandrianus&theme=tokyonight&hide_border=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habibandrianus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=habibandrianus&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=habibandrianus&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=habibandrianus&theme=tokyonight&no-frame=true&row=1&column=6)
 
 ### 🎖️ Notable Awards & Honors
 - 🥇 **World's Top Universities Scholarship** by Indonesian Endowment Fund (15% Acceptance Rate) - 2024
@@ -124,38 +105,26 @@ I'm a distinguished economist and data scientist currently pursuing my Master of
 
 ## 🎯 Featured Projects
 
-### 📊 [Economic Impact Analysis - Natural Disasters](https://github.com/habibandrianus/disaster-economics)
+### 📊 Economic Impact Analysis - Natural Disasters
 Comprehensive econometric analysis of socio-economic impacts of natural disasters in West Sumatra using advanced statistical modeling.
 
 **Methods:** Panel Data Analysis, Difference-in-Differences, Spatial Econometrics  
 **Tools:** R, Stata, Python  
 **Status:** Published in Q3 Scopus Journal (2025)
 
-### 💰 [Redenomination Policy Analysis](https://github.com/habibandrianus/redenomination-study)
+### 💰 Redenomination Policy Analysis
 Experimental economics approach to analyze determinants of redenomination policy success in Indonesia.
 
 **Methods:** Online Experiments, Behavioral Economics, Statistical Analysis  
 **Tools:** R, Stata, Survey Design  
 **Funding:** Central Bank of Indonesia Research Program
 
-### 🏪 [Retail Analytics Dashboard](https://github.com/habibandrianus/retail-analytics)
+### 🏪 Retail Analytics Dashboard
 Advanced analytics system for optimizing retail channel strategies across 3,000+ retailers.
 
 **Features:** Real-time Data Integration, Predictive Modeling, Strategic Insights  
 **Tools:** Python, SQL, Power BI  
 **Impact:** Drove PMI to No.1 ranking in Central Java Zone
-
-## 🎤 Media & Speaking Engagements
-
-### 📺 **Television & Digital Media**
-- **Nagari TV** - Campus Zone Interview on E-learning Innovation (July 2021)
-- **Regular Instagram Live** - Economics & Leadership discussions (100+ participants per session)
-- **Produktifkuy Webinar #11** - Financial Planning for Generation Z (120+ participants)
-
-### 📝 **Thought Leadership**
-- Active **LinkedIn** contributor on economic research and strategic insights
-- **Instagram** portfolio documenting professional milestones and projects
-- **Research presentations** at national economics seminars
 
 ## 🏅 Certifications & Skills
 
@@ -176,22 +145,11 @@ Advanced analytics system for optimizing retail channel strategies across 3,000+
 - **Strategic Business Intelligence**
 - **Cross-cultural Communication** (English/Bahasa Indonesia)
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=habibandrianus&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
 ## 🤝 Let's Connect!
 
-<div align="center">
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/habibandrianus/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrianus_habib@u.nus.edu)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/habibandrianus)
-[![Academia](https://img.shields.io/badge/Academia-41454A?style=for-the-badge&logo=academia&logoColor=white)](https://nus.academia.edu/HabibAndrianus)
-
-</div>
 
 ## 🌟 Current Focus
 
@@ -203,10 +161,8 @@ Advanced analytics system for optimizing retail channel strategies across 3,000+
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=habibandrianus&color=blue&style=flat-square" alt="Profile Views" />
-  
-  **"Economics is not just about numbers—it's about understanding human behavior and creating positive impact."**
-  
-  *Thanks for visiting my profile! Let's collaborate on impactful research and analytics projects! 🚀*
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=habibandrianus&color=blue&style=flat-square)
+
+**"Economics is not just about numbers—it's about understanding human behavior and creating positive impact."**
+
+*Thanks for visiting my profile! Let's collaborate on impactful research and analytics projects! 🚀*
